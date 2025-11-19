@@ -7,8 +7,8 @@ I wrote a MATLAB script to help find a solution that optimised the design to hav
 
 My individual design is similar to the final group version that was built, with the second stage of the individual design being the same as both stages on the group design. Referencing the appendix in the individual report shows the calculations used for the individual and group gearbox.
 
-The process of designing and building the gearbox involved:
-  Calculations to solve for the sun gear module of a stage (which dictated the other gear modules), given various parameters such as output torque, input speed, teeth count of all gears, factor of safety, etc.
-  Writing the MATLAB scripts to find a solution that minimised the size of the gearbox.
-  3D printing all the parts of the gearbox, including shafts and gears to validate assembly and function, and to inform any changes that were needed.
-  Manufacturing the non-3D printed parts and 1-for-1 swapping them for their 3D printed counterparts.
+The process of designing and building the gearbox involved:  
+  1. Calculations to solve for the sun gear module of a stage (which dictated the other gear modules), given various parameters such as output torque, input speed, teeth count of all gears, factor of safety, etc.  
+  2. Writing the MATLAB scripts to find a solution that minimised the size of the gearbox.  
+  3. 3D printing all the parts of the gearbox, including shafts and gears to validate assembly and function, and to inform any changes that were needed.  
+  4. Manufacturing the non-3D printed parts and 1-for-1 swapping them for their 3D printed counterparts.  
