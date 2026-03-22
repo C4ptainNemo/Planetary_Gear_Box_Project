@@ -1,7 +1,6 @@
 # Planetary Gear Box Project
 <img width="2849" height="2179" alt="gearbox" src="https://github.com/user-attachments/assets/b59eb78c-e1f0-4e7f-aee3-80b4d8b56f10" />
-A Two Stage Compound Planetary Gearbox designed and built for a university design project. All content contained here was done by myself unless otherwise stated.
-
+A Two Stage Compound Planetary Gearbox designed and built for a university design project. All content contained here was done by myself unless otherwise stated.  
 
 The project required a gearbox that would output 20 Nm of torque and have a 65x speed reduction. This was a group project done with three others, however I did all of the CAD except for some of the technical drawings (though I have included here my own versions).
 
